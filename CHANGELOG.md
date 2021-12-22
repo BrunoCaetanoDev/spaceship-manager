@@ -11,16 +11,17 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
-* Unit and integration testing [#21](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/21)
-* Standardized logging capabilities [#18](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/18)
-* Response header enrichment [#16](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/16)
-* Swagger OpenAPI specification [#14](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/14)
-* Global exception handling [#12](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/12)
-* Service contract base implementation [#7](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/7)
-* Service contract definition [#3](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/3)
-* Domain entity model [#2](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/2)
+* Migrate to Java 17 version [#1](https://github.com/BrunoCaetanoDev/spaceship-manager/issues/1)
+* Unit and integration testing [cf-training-springboot-2019 #21](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/21)
+* Standardized logging capabilities [cf-training-springboot-2019 #18](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/18)
+* Response header enrichment [cf-training-springboot-2019 #16](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/16)
+* Swagger OpenAPI specification [cf-training-springboot-2019 #14](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/14)
+* Global exception handling [cf-training-springboot-2019 #12](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/12)
+* Service contract base implementation [cf-training-springboot-2019 #7](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/7)
+* Service contract definition [cf-training-springboot-2019 #3](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/3)
+* Domain entity model [cf-training-springboot-2019 #2](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/2)
 * Spaceover project standardized
-  documentation [#1](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/1)
+  documentation [cf-training-springboot-2019 #1](https://github.com/cf-training-springboot-2019/spaceship-manager/issues/1)
 
 ### Changed
 
